@@ -1,5 +1,7 @@
 # Ex_1.5
 Daily Profit
+
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
